@@ -1,0 +1,81 @@
+* {
+    text-align: center;
+    
+}
+
+body {
+    background-color: #003249;
+    
+}
+
+
+h1 {
+    color: #A847E8;
+    font-family: 'Amatic SC', cursive;
+    text-align: center;
+    font-size: 8rem;    
+
+}
+
+.meow {
+    height: 10rem;
+    width: 10rem;
+    margin: 1rem;
+    outline: none;
+    font-size: 3rem;
+    color: midnightblue;
+    border: none;
+    border-radius: 4%;
+    font-family: 'Amatic SC', cursive;
+    color:#FCECAB;    
+    
+}
+
+.w {
+    background-image: url("../images/first.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.a {
+    background-image: url("../images/second.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.s {
+    background-image: url("../images/third.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.d {
+    background-image: url("../images/fourth.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.j {
+    background-image: url("../images/fifth.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.k {
+    background-image: url("../images/sixth.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.l {
+    background-image: url("../images/seventh.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+h4 {
+    font-family: 'Amatic SC', cursive;
+    font-size: 2rem;
+    color: #F7FCF7;
+    margin-top: 8rem;
+}
